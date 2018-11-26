@@ -7,11 +7,14 @@ A crash course  PDF for C &amp; Algorithms, written  by myself during the WTC bo
 All notes/changes &amp; improvements welcome lmncube@student.wethinkcode.co.za :) 
 
 # Topics Covered (For Bootcamp)
--Compilation
--Variables (Integers, Characters)
--Arrays (Pointers)
--Makefiles & Make
--Libraries & headers
+<ul>
+  <li> Compilation </li>
+  <li> Variables (Integers, Characters) </li>
+  <li> Arrays (Pointers) </li>
+  <li> Makefiles/Make </li>
+  <li> Libraries & headers </li>
+</ul>
+
 
 # Advanced Topics (For Examshell, First Semester)
 -Number systems & conversions
