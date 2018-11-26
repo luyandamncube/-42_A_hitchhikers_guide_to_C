@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="resources/logo.png"/>
+</p>
+
 # wethinkcode_ Johannesburg
 
 ![wethinkcode_ logo](resources/wtc.gif)
