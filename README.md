@@ -17,8 +17,10 @@ All notes/changes &amp; improvements welcome lmncube@student.wethinkcode.co.za :
 
 
 # Advanced Topics (For Examshell, First Semester)
--Number systems & conversions
--Bit Manipulation
--Memory (Allocation, Leaks)
--Abstract Data Types (Linked Lists, Stacks)
--Big O (Space-Time Complexity, Search, recursion)
+<ul>
+  <li> Number systems & conversions </li>
+  <li> Bit Manipulation </li>
+  <li> Memory (Allocation, Leaks) </li>
+  <li> Abstract Data Types (Linked Lists, Stacks) </li>
+  <li> Big O (Space-Time Complexity, Search, recursion) </li>
+</ul>
